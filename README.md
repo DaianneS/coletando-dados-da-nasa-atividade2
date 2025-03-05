@@ -19,5 +19,6 @@ Este projeto tem como objetivo coletar informações sobre asteroides próximos 
    - Se é potencialmente perigoso (Sim/Não)
 4. **Exibição no terminal**: O programa exibe essas informações de forma clara e formatada.
 
+**Atividade fornecida pelo Prof. Dr. Humberto A. P. Zanetti para a disciplina de Estrutura de Dados.**
 
 Se você encontrar algum erro ou tiver sugestões de melhorias, fique à vontade para abrir uma **issue** ou enviar um **pull request**!
