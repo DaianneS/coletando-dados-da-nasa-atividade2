@@ -1,4 +1,5 @@
 # Coletando dados da NASA - Asteroides Próximos à Terra
+**Atividade fornecida pelo Prof. Dr. Humberto A. P. Zanetti para a disciplina de Estrutura de Dados na FATEC Jundiaí.**
 
 Este projeto tem como objetivo coletar informações sobre asteroides próximos à Terra a partir da API da NASA (Near-Earth Object Web Service). O programa permite que o usuário insira uma data específica, faça uma requisição à API, processe os dados recebidos e exiba as informações de maneira organizada.
 
@@ -18,7 +19,5 @@ Este projeto tem como objetivo coletar informações sobre asteroides próximos 
    - Distância mínima da Terra (em km)
    - Se é potencialmente perigoso (Sim/Não)
 4. **Exibição no terminal**: O programa exibe essas informações de forma clara e formatada.
-
-**Atividade fornecida pelo Prof. Dr. Humberto A. P. Zanetti para a disciplina de Estrutura de Dados.**
 
 Se você encontrar algum erro ou tiver sugestões de melhorias, fique à vontade para abrir uma **issue** ou enviar um **pull request**!
